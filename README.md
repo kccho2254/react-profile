@@ -2,10 +2,6 @@
 
 React-ful clone of my personal profile at https://kccho2254.github.io/
 
-# Languages Used
-CSS
-HTML
-
 # Credits
 ## [Formspree](https://formspree.io/)
 ## [w3schools](https://www.w3schools.com/html/html_forms.asp)
