@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Texturina:wght@100&display=swap');
+@import url('https://fonts.gstatic.com');
+
+
+body {
+    background-image: url('../styles/images/previewfile_1171923945.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 100%;
+    margin: 0;
+}
+
+html {
+    height: 100%;
+    margin: 0;
+    font-family: "Texturina"!important;
+  
+  }
+
